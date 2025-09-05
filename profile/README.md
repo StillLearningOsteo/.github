@@ -5,6 +5,4 @@ Wszystko po to, aby móc coraz lepiej pomagać swoim pacjentom.
 </p>
 
 
-![mission][mission]
-
-[mission]: ./mission.svg
+<img src="./mission.svg" alt="Alt text" width="500"/>
