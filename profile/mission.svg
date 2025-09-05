@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="360" viewBox="0 0 1200 360">
+    <style>
+        .wrapper { width: 100%; height: 100%; display: flex; align-items: center; justify-content: center; }
+        .box { max-width: 1000px; text-align: center; padding: 24px; }
+        .quote { font-family: Helvetica, sans-serif; font-weight: 700; font-size: 28px; line-height: 1.35; color: #111; }
+    </style>
+
+    <!-- Uses <br/> as you provided via foreignObject -->
+    <foreignObject x="0" y="0" width="100%" height="100%">
+        <div xmlns="http://www.w3.org/1999/xhtml" class="wrapper">
+            <div class="box quote">
+                Celem dobrego osteopaty jest ciągle się uczyć,<br/>
+                zdobywać wiedzę od najlepszych i nabierać doświadczenia.<br/>
+                Wszystko po to, aby móc coraz lepiej pomagać swoim pacjentom.
+            </div>
+        </div>
+    </foreignObject>
+</svg>
