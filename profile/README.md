@@ -4,7 +4,7 @@
 
 
 > [!NOTE]
-> Celem dobrego osteopaty jest ciągle się uczyć.
+> # Celem dobrego osteopaty jest ciągle się uczyć.
 > 
 > Zdobywać wiedzę od najlepszych i nabierać doświadczenia.
 > 
