@@ -1,3 +1,11 @@
 <svg xmlns="http://www.w3.org/2000/svg" width="1200" height="360" viewBox="0 0 1200 360">
-    <text x="20" y="15" class="small">My</text>
+    <style>
+        .bigger {
+          font: italic 2em Helvetica, sans-serif;
+        }
+    </style>
+
+    <text x="10" y="10" class="small">Celem dobrego osteopaty jest ciągle się uczyć,</text>
+    <text x="10" y="30" class="heavy">zdobywać wiedzę od najlepszych i nabierać doświadczenia.</text>
+    <text x="10" y="50" class="small">Wszystko po to, aby móc coraz lepiej pomagać swoim pacjentom.</text>
 </svg>
