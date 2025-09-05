@@ -1,3 +1,3 @@
-<h2>Celem dobrego osteopaty jest ciągle się uczyć,<br/>
+<h3>Celem dobrego osteopaty jest ciągle się uczyć,<br/>
 zdobywać wiedzę od najlepszych i nabierać doświadczenia.<br/>
-Wszystko po to, aby móc coraz lepiej pomagać swoim pacjentom.</h2>
+Wszystko po to, aby móc coraz lepiej pomagać swoim pacjentom.</h3>
